@@ -248,6 +248,9 @@ span,
 .btn {
   font-family: "Times New Roman", FangSong, STFangsong, sans-serif;
 }
+a {
+  text-decoration: none !important;
+}
 img {
   max-width: 100%;
 }
